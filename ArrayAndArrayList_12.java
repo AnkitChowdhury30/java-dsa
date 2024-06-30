@@ -19,6 +19,7 @@ public class ArrayAndArrayList_12 {
         System.out.println("Array elements are coming: ");
         for(int i=0;i<arr.length;i++){
             System.out.print(arr[i]+" ");
+            //hello
         }
     }    
 }
